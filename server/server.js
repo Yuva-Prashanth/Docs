@@ -3,7 +3,7 @@ const mongoose = require("mongoose")
 const Document = require("./Document")
 
 
-mongoose.connect('mongodb+srv://Yuva:1234@project3.ifjti.mongodb.net/myFirstDatabase?retryWrites=true&w=majority',{
+mongoose.connect('mongodb+srv://yuva:yuva@cluster0.arzuh2x.mongodb.net/?retryWrites=true&w=majority',{
   useUnifiedTopology: true,
   useNewUrlParser: true
 }).then(
@@ -12,7 +12,7 @@ mongoose.connect('mongodb+srv://Yuva:1234@project3.ifjti.mongodb.net/myFirstData
 
 const io = require("socket.io")(3001, {
   cors: {
-    origin: "http://localhost:3000",
+    origin: "*",
     methods: ["GET", "POST"],
   },
 })
