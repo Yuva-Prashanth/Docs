@@ -3,7 +3,7 @@
 ![Image alt text](https://raw.githubusercontent.com/Yuva-Prashanth/Assets/main/google-docs-00-hero.jpeg "DOCS")
 
 # Overview
-DOCS is a MERN Stack web application that simulates the functionality of Google Docs. 
+WriteNow is a MERN Stack web application that simulates the functionality of Google Docs. 
 The application is built using React JS for the frontend and MongoDB with Mongoose for the backend database. 
 The application allows users to create, edit, and collaborate on documents in real-time.
 
