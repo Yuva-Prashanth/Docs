@@ -1,4 +1,4 @@
-<h1 align="center">DOCS</h1>
+<h1 align="center">WriteNow</h1>
 
 ![Image alt text](https://raw.githubusercontent.com/Yuva-Prashanth/Assets/main/google-docs-00-hero.jpeg "DOCS")
 
