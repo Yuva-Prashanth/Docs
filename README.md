@@ -12,9 +12,9 @@ The application allows users to create, edit, and collaborate on documents in re
 - The backend utilizes Mongoose schemas for the MongoDB database to store user data and document content.
 
 # Features
-- The DOCS web application is designed to be intuitive and easy to use, providing users with a familiar interface for creating and editing documents. 
+- The WriteNow web application is designed to be intuitive and easy to use, providing users with a familiar interface for creating and editing documents. 
 - The application allows for multiple users to collaborate on the same document, with changes being updated in real-time for all users.
-- The DOCS web application is built using modern web technologies and is fully responsive, allowing for easy use on both desktop and mobile devices.
+- The WriteNow web application is built using modern web technologies and is fully responsive, allowing for easy use on both desktop and mobile devices.
 
 # Getting Started with Create React App
 
